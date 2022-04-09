@@ -11,6 +11,7 @@
 	</parent>
 	<groupId>com.bezkoder</groupId>
 	<artifactId>spring-boot-security-jwt</artifactId>
+	<packaging>jar</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-boot-security-jwt</name>
 	<description>Demo project for Spring Boot Security - JWT</description>
@@ -81,5 +82,5 @@
 			</plugin>
 		</plugins>
 	</build>
-
+	
 </project>
